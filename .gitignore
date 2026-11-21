@@ -1,0 +1,9 @@
+out/
+target/
+*.class
+sources.txt
+.idea/
+*.iml
+.vscode/
+nbproject/private/
+.DS_Store
